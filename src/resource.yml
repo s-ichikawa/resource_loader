@@ -1,0 +1,14 @@
+default:
+  js:
+    - default.js
+search/*:
+  js:
+    - search.js
+  css:
+    - search.css
+search/index.php:
+  js:
+    - search_index.js
+detail/index.php:
+  js:
+    - detail.js
